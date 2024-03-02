@@ -18,13 +18,13 @@ This repository contains the code and analysis for Homework 1 of the Data Scienc
 1. **Clone this repository:**
 
     ```bash
-    git clone https://github.com/ntatrishvili/Data-exploration.git
+    git clone https://github.com/ntatrishvili/data-exploration.git
     ```
 
 2. **Navigate to the project folder:**
 
     ```bash
-    cd Data-exploration
+    cd data-exploration
     ```
 
 3. **Open Jupyter notebooks in the `Notebooks/` directory to explore the code.**
